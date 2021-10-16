@@ -2,7 +2,7 @@
   "name": "robot",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://gitname.github.io/Animal-Kingdom",
+  "homepage": "http://arp29.github.io/Animal-Kingdom/",
 
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
