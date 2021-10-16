@@ -5,9 +5,29 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(to left,rgba(3, 11, 129, 0.1),rgb(2, 15, 88));
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.css-3d-text {
+  font-size: 70px;
+  color: #c9e8dd;
+  font-family: Tahoma, Geneva, sans-serif;
+  text-shadow: 0px 0px 0 rgb(196,227,216),
+               1px 1px 0 rgb(191, 193, 222),
+               2px 2px 0 rgb(188, 186, 217),
+               3px 3px 0 rgb(181,212,201),
+               4px 4px 0 rgb(176,207,196),
+               5px 5px 0 rgb(171,202,191),
+               6px 6px 0 rgb(166,197,186),
+               7px 7px 0 rgb(161,192,181),
+               8px 8px 0 rgb(156,187,176),
+               9px 9px 0 rgb(151,182,171),
+               10px 10px  0 rgb(13, 24, 124),
+               11px 11px 10px rgba(0,0,0,0.6),
+               11px 11px 1px rgba(0,0,0,0.5),
+               0px 0px 10px rgba(0,0,0,.2);
 }
