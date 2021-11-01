@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Animal-Kingdom/static/css/main.c6b23329.chunk.css",
-    "main.js": "/Animal-Kingdom/static/js/main.abf30357.chunk.js",
-    "main.js.map": "/Animal-Kingdom/static/js/main.abf30357.chunk.js.map",
+    "main.js": "/Animal-Kingdom/static/js/main.0687f195.chunk.js",
+    "main.js.map": "/Animal-Kingdom/static/js/main.0687f195.chunk.js.map",
     "runtime-main.js": "/Animal-Kingdom/static/js/runtime-main.6339a003.js",
     "runtime-main.js.map": "/Animal-Kingdom/static/js/runtime-main.6339a003.js.map",
     "static/css/2.6d7c7915.chunk.css": "/Animal-Kingdom/static/css/2.6d7c7915.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.6d7c7915.chunk.css",
     "static/js/2.45b28da9.chunk.js",
     "static/css/main.c6b23329.chunk.css",
-    "static/js/main.abf30357.chunk.js"
+    "static/js/main.0687f195.chunk.js"
   ]
 }
