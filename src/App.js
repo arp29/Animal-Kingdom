@@ -3,6 +3,7 @@ import CardList from "./CardList";
 import { Animals } from "./Animals";
 import Searchbox from "./Searchbox";
 import "./index.css";
+import Scroll from "./scroll";
 class App extends React.Component{
     constructor(){
         super();
@@ -24,7 +25,9 @@ class App extends React.Component{
             <div className="tc">
                 <h1 className="fs-l tc fw9 6rem(96px) css-3d-text">ANIMAL KINGDOM</h1>
                 <Searchbox searchChange={this.onSearchChange}/>
+                <Scroll>
                 <CardList Animals={filteredAnimals}/>
+                </Scroll>
             </div>
         );
     }
