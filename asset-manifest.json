@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Animal-Kingdom/static/css/main.c6b23329.chunk.css",
-    "main.js": "/Animal-Kingdom/static/js/main.0687f195.chunk.js",
-    "main.js.map": "/Animal-Kingdom/static/js/main.0687f195.chunk.js.map",
+    "main.css": "/Animal-Kingdom/static/css/main.a7fc8b3c.chunk.css",
+    "main.js": "/Animal-Kingdom/static/js/main.78cd68df.chunk.js",
+    "main.js.map": "/Animal-Kingdom/static/js/main.78cd68df.chunk.js.map",
     "runtime-main.js": "/Animal-Kingdom/static/js/runtime-main.6339a003.js",
     "runtime-main.js.map": "/Animal-Kingdom/static/js/runtime-main.6339a003.js.map",
     "static/css/2.6d7c7915.chunk.css": "/Animal-Kingdom/static/css/2.6d7c7915.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.08afa9ef.chunk.js.map": "/Animal-Kingdom/static/js/3.08afa9ef.chunk.js.map",
     "index.html": "/Animal-Kingdom/index.html",
     "static/css/2.6d7c7915.chunk.css.map": "/Animal-Kingdom/static/css/2.6d7c7915.chunk.css.map",
-    "static/css/main.c6b23329.chunk.css.map": "/Animal-Kingdom/static/css/main.c6b23329.chunk.css.map",
+    "static/css/main.a7fc8b3c.chunk.css.map": "/Animal-Kingdom/static/css/main.a7fc8b3c.chunk.css.map",
     "static/js/2.45b28da9.chunk.js.LICENSE.txt": "/Animal-Kingdom/static/js/2.45b28da9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6339a003.js",
     "static/css/2.6d7c7915.chunk.css",
     "static/js/2.45b28da9.chunk.js",
-    "static/css/main.c6b23329.chunk.css",
-    "static/js/main.0687f195.chunk.js"
+    "static/css/main.a7fc8b3c.chunk.css",
+    "static/js/main.78cd68df.chunk.js"
   ]
 }
